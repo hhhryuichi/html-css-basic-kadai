@@ -1,0 +1,13 @@
+#top{
+  width: 800px;
+  text-align: center;
+  background-color: #dcc9f4;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+}
+.top-child{
+  width: 20%;
+  display: inline-block;
+  background-color: #ffd9df;
+}
